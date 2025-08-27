@@ -1,3 +1,3 @@
 # hello-world
-hello word 
+hello world 
 my name is wayne and I like doing stuff
